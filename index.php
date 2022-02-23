@@ -176,18 +176,18 @@
 			<hr class="invis">
 
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<div class="teambox clearfix">
 						<div class="member">
 							<img src="upload/member_01.jpg" alt="" class="alignleft">
 							<i class="flaticon-karaoke"></i>
 						</div>
 						<h4>Vocalist</h4>
-						<small>Hakan Utangaç</small>
+						<small>Paula Frecot</small>
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<div class="teambox clearfix">
 						<div class="member">
 							<img src="upload/member_02.jpg" alt="" class="alignleft">
@@ -198,7 +198,7 @@
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<div class="teambox clearfix">
 						<div class="member">
 							<img src="upload/member_03.jpg" alt="" class="alignleft">
@@ -209,7 +209,29 @@
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
-				<div class="col-md-3">
+				<div class="col-md-2">
+					<div class="teambox clearfix">
+						<div class="member">
+							<img src="upload/member_03.jpg" alt="" class="alignleft">
+							<i class="flaticon-electric-guitar"></i>
+						</div>
+						<h4>Guitar</h4>
+						<small>Cenk Ünnü</small>
+					</div><!-- end teambox -->
+				</div><!-- end col -->
+
+				<div class="col-md-2">
+					<div class="teambox clearfix">
+						<div class="member">
+							<img src="upload/member_03.jpg" alt="" class="alignleft">
+							<i class="flaticon-electric-guitar"></i>
+						</div>
+						<h4>Guitar</h4>
+						<small>Cenk Ünnü</small>
+					</div><!-- end teambox -->
+				</div><!-- end col -->
+
+				<div class="col-md-2">
 					<div class="teambox clearfix">
 						<div class="member">
 							<img src="upload/member_04.jpg" alt="" class="alignleft">
