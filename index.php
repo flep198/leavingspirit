@@ -190,11 +190,22 @@
 				<div class="col-md-2">
 					<div class="teambox clearfix">
 						<div class="member">
+							<img src="upload/member_03.jpg" alt="" class="alignleft">
+							<i class="flaticon-electric-guitar"></i>
+						</div>
+						<h4>Guitar</h4>
+						<small>Florian Eppel</small>
+					</div><!-- end teambox -->
+				</div><!-- end col -->
+
+				<div class="col-md-2">
+					<div class="teambox clearfix">
+						<div class="member">
 							<img src="upload/member_02.jpg" alt="" class="alignleft">
 							<i class="flaticon-saxophone"></i>
 						</div>
-						<h4>Saxophone</h4>
-						<small>Gökalp Ergen</small>
+						<h4>Hammond/Piano</h4>
+						<small>Maik Wiezorrek</small>
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
@@ -205,7 +216,7 @@
 							<i class="flaticon-electric-guitar"></i>
 						</div>
 						<h4>Guitar</h4>
-						<small>Cenk Ünnü</small>
+						<small>Eric Löffler</small>
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
@@ -215,19 +226,8 @@
 							<img src="upload/member_03.jpg" alt="" class="alignleft">
 							<i class="flaticon-electric-guitar"></i>
 						</div>
-						<h4>Guitar</h4>
-						<small>Cenk Ünnü</small>
-					</div><!-- end teambox -->
-				</div><!-- end col -->
-
-				<div class="col-md-2">
-					<div class="teambox clearfix">
-						<div class="member">
-							<img src="upload/member_03.jpg" alt="" class="alignleft">
-							<i class="flaticon-electric-guitar"></i>
-						</div>
-						<h4>Guitar</h4>
-						<small>Cenk Ünnü</small>
+						<h4>Bass</h4>
+						<small>Amelie Platzöder</small>
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 
@@ -238,7 +238,7 @@
 							<i class="flaticon-drum-set"></i>
 						</div>
 						<h4>Drum</h4>
-						<small>Demir Demirkan </small>
+						<small>Felix Möser</small>
 					</div><!-- end teambox -->
 				</div><!-- end col -->
 			</div><!-- end row -->
@@ -334,11 +334,11 @@
 						<a class="grid__link" href="#album-1">
 							<div class="img-wrap img-wrap--grid">
 								<svg class="lp lp--grid"></svg>
-								<img class="img img--grid" src="upload/album_06.jpg" alt="album1" />
+								<img class="img img--grid" src="images/mythofthedeltablues.jpg" alt="mythofthedeltablues" />
 							</div>
-							<span class="year">2015</span>
-							<h2 class="artist">Back to Rock</h2>
-							<h3 class="title">Royal Blood</h3>
+							<span class="year">2021</span>
+							<h2 class="artist">Leaving Spirit</h2>
+							<h3 class="title">Myth of the Delta Blues</h3>
 						</a>
 					</div>
 				</div><!-- end col -->
@@ -348,11 +348,11 @@
 						<a class="grid__link" href="#album-1">
 							<div class="img-wrap img-wrap--grid">
 								<svg class="lp lp--grid"></svg>
-								<img class="img img--grid" src="upload/album_05.jpg" alt="album1" />
+								<img class="img img--grid" src="images/refrigeratorblues.jpg" alt="refrigeratorblues" />
 							</div>
-							<span class="year">2013</span>
-							<h2 class="artist">Back to Rock</h2>
-							<h3 class="title">Vertical</h3>
+							<span class="year">2021</span>
+							<h2 class="artist">Leaving Spirit</h2>
+							<h3 class="title">Refrigerator Blues</h3>
 						</a>
 					</div>
 				</div><!-- end col -->
@@ -362,11 +362,11 @@
 						<a class="grid__link" href="#album-1">
 							<div class="img-wrap img-wrap--grid">
 								<svg class="lp lp--grid"></svg>
-								<img class="img img--grid" src="upload/album_04.jpg" alt="album1" />
+								<img class="img img--grid" src="images/thingschange.jpg" alt="thingschange" />
 							</div>
-							<span class="year">2011</span>
-							<h2 class="artist">Back to Rock</h2>
-							<h3 class="title">Led Zeppelin</h3>
+							<span class="year">2019</span>
+							<h2 class="artist">Leaving Spirit</h2>
+							<h3 class="title">Things Change</h3>
 						</a>
 					</div>
 				</div><!-- end col -->
