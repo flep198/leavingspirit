@@ -868,6 +868,7 @@ ALBUM
 }
 
 .year {
+    background-color: #ffffff;
     font-size: 0.85em;
     position: absolute;
     z-index: 10;
@@ -1226,7 +1227,7 @@ TABLE
     vertical-align: middle;
     border-top-color: rgba(255, 255, 255, 0.1);
     font-weight: bold;
-    padding: 15px 10px;
+    padding: 15px 20px;
     color:#9a9a9a;
 }
 
@@ -1237,7 +1238,7 @@ TABLE
 
 .tour-date {
     font-style: italic;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 hr.custom {
