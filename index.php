@@ -424,18 +424,18 @@
 		<div class="container">
 			<div class="section-title text-center clearfix">
 				<h2>Multi<i>Media</i></h2>
-				<p>Our latest videos, audios on our official <a href="#">Youtube</a> channel! Don't forget subscribe us!</p>
+				<p>Our latest videos, audios on our official <a href="https://youtube.com/leavingspirit">Youtube</a> channel! Don't forget to subscribe!</p>
 			</div><!-- end title -->
 
 			<div class="row video-wrapper">
 				<div class="col-md-4 m30">
 					<div class="blog-box">
 						<div class="home-video videobox clearfix">
-							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/RkLTYHOB5KM"></iframe>
+							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/LOETkpsoUOw"></iframe>
 						</div><!-- end media -->
 						<div class="blog-title">
-							<h3><a href="single.html" title="">Slipknot - Rock Iam Ring Official Video</a></h3>
-							<p>Suspendisse eget ornare eros. Cras sit amet pulvinar mi. Nunc dignissim nunc eros, eget luctus lorem ultricies nec. </p>
+							<h3><a href="single.html" title="">Leaving Spirit | Myth of the Delta Blues (Official Video)</a></h3>
+							<p>With "Myth of the Delta Blues" we pay tribute to our influences from the early days of the blues. This music has deeply influenced our songs and our music so we decided to write a blues-rocky tune to honor all great delta blues artists! </p>
 							<a href="single.html" title="" class="btn btn-primary btn-block clearfix">
 								<span class="pull-left">121 Views</span>
 								<span class="pull-right">Watch Now</span>
@@ -447,11 +447,11 @@
 				<div class="col-md-4 m30">
 					<div class="blog-box">
 						<div class="home-video videobox clearfix">
-							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/CSvFpBOe8eY"></iframe>
+							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/w2ofVmkzveo"></iframe>
 						</div><!-- end media -->
 						<div class="blog-title">
-							<h3><a href="single.html" title="">System of a Down - Chop Suey Back of the Video</a></h3>
-							<p>Suspendisse eget ornare eros. Cras sit amet pulvinar mi. Nunc dignissim nunc eros, eget luctus lorem ultricies nec. </p>
+							<h3><a href="single.html" title="">Leaving Spirit | Mississippi Bridge (Official Video)</a></h3>
+							<p>His way is as lonely as his mind... Follow the unknown rider on his ride through the state of Mississippi!</p>
 							<a href="single.html" title="" class="btn btn-primary btn-block clearfix">
 								<span class="pull-left">3331 Views</span>
 								<span class="pull-right">Watch Now</span>
@@ -463,10 +463,10 @@
 				<div class="col-md-4 m30">
 					<div class="blog-box">
 						<div class="home-video videobox clearfix">
-							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/SBjQ9tuuTJQ"></iframe>
+							<iframe class="videoframe" width="560" height="315" src="https://www.youtube.com/embed/4mIR_YeK5Rc"></iframe>
 						</div><!-- end media -->
 						<div class="blog-title">
-							<h3><a href="single.html" title="">Foo Fighters - The Pretender - Original Video</a></h3>
+							<h3><a href="single.html" title="">Leaving Spirit | Keep Rockin' Alive (Official Video)</a></h3>
 							<p>Suspendisse eget ornare eros. Cras sit amet pulvinar mi. Nunc dignissim nunc eros, eget luctus lorem ultricies nec. </p>
 							<a href="single.html" title="" class="btn btn-primary btn-block clearfix">
 								<span class="pull-left">522 Views</span>
@@ -834,7 +834,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <p>2010 - 2017 &copy;Back to Rock Music Group INC. All rights reserved.</p>
+                        <p>2016 - 2022 &copy;Leaving Spirit. All rights reserved.</p>
                         <ul class="list-inline">
                             <li><a href="#">Facebook</a></li>
                             <li><a href="#">Twitter</a></li>
