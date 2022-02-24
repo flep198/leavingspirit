@@ -513,7 +513,7 @@ SECTION
 .customtitle {
     padding: 30px 25px 25px;
     position: absolute;
-    background: #867461 url("images/gr.png") repeat scroll center center !important;
+    background: #867461 url("images/logo.png") repeat scroll center center !important;
     bottom: -25px;
     top: auto;
     border: 3px solid #070a0a !important;

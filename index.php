@@ -76,7 +76,6 @@
 	<section id="home" class="parallax section first-section" data-stellar-background-ratio="0.9" style="background-image:url('images/background.jpg');">
 		<div class="index-image-overlay"></div>
 		<div class="customtitle">
-			<h2>Back <i>to</i> Rock</h2>
 		</div>
 	</section><!-- end section -->	
 
@@ -264,9 +263,9 @@
 			    </thead>
 			    <tbody>
 			      <tr>
-			        <td class="col-md-2 tour-date">March 21</td>
-			        <td class="col-md-6"><a href="#">VARILFEST 2017</a></td>
-			        <td class="col-md-2">Aydin/TURKEY</td>
+			        <td class="col-md-2 tour-date">March 26, 2022</td>
+			        <td class="col-md-6"><a href="#">Live-Club</a></td>
+			        <td class="col-md-2">Bamberg, Germany</td>
 			        <td class="col-md-2 ticket-button text-center"><a href="#" class="btn btn-primary">Tickets</a></td>
 			      </tr>
 			      <tr>
