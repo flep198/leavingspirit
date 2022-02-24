@@ -513,7 +513,6 @@ SECTION
 .customtitle {
     padding: 30px 25px 25px;
     position: absolute;
-    background: #867461 url("images/logo.png") repeat scroll center center !important;
     bottom: -25px;
     top: auto;
     border: 3px solid #070a0a !important;
@@ -523,14 +522,7 @@ SECTION
     right: 0;
     margin: auto;
     text-align: center;
-    max-width: 500px;
-    -ms-transform: rotate(-5deg);
-    /* IE 9 */
-    -webkit-transform: rotate(-5deg);
-    /* Safari */
-    transform: rotate(-5deg);
-    animation: shake 2s cubic-bezier(.56, .07, .19, .97) both;
-    backface-visibility: hidden;
+    max-width: 300px;
     perspective: 1000px;
 }
 

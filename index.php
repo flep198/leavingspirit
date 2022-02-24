@@ -76,6 +76,7 @@
 	<section id="home" class="parallax section first-section" data-stellar-background-ratio="0.9" style="background-image:url('images/background.jpg');">
 		<div class="index-image-overlay"></div>
 		<div class="customtitle">
+			<img src="upload/logo.png" alt="" class="img-responsive">
 		</div>
 	</section><!-- end section -->	
 
@@ -434,7 +435,7 @@
 						</div><!-- end media -->
 						<div class="blog-title">
 							<h3><a href="single.html" title="">Leaving Spirit | Myth of the Delta Blues (Official Video)</a></h3>
-							<p>With "Myth of the Delta Blues" we pay tribute to our influences from the early days of the blues. This music has deeply influenced our songs and our music so we decided to write a blues-rocky tune to honor all great delta blues artists! </p>
+							<p>With "Myth of the Delta Blues" we pay tribute to our influences from the early days of the blues.</p>
 							<a href="single.html" title="" class="btn btn-primary btn-block clearfix">
 								<span class="pull-left">121 Views</span>
 								<span class="pull-right">Watch Now</span>
